@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Bot\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.1.3",
+        "symfony/console": "^4.4",
+        "fabpot/goutte": "^4.0",
+        "league/csv": "^9.5"
+    }
+}
