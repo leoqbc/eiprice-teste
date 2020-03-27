@@ -16,6 +16,18 @@ composer install
 ```
 
 #### Para a geração dos relatórios:
+Linux/Mac
 ```
 php bin/pricefinder search
+```
+
+or
+
+```
+bin/pricefinder search
+```
+
+Windows
+```
+php bin\pricefinder search
 ```
